@@ -1,0 +1,13 @@
+GET https://www.w3.org/People/Berners-Lee/
+
+###
+
+GET https://swapi.co/api/films/2/
+
+###
+
+GET https://pokeapi.co/api/v2/
+
+###
+
+GET https://cdn.animenewsnetwork.com/encyclopedia/api.xml?manga=4199
